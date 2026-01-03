@@ -1,0 +1,9 @@
+{
+  "name": "VeriTrust AI: Multi-Modal Trust Platform",
+  "description": "Enterprise-grade hallucination detection, verification, and trust scoring with Live Audio, Maps Grounding, and Multimodal analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
